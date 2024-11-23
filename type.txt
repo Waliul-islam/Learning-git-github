@@ -1,4 +1,1 @@
-This is a testing message.
-I want to add some more text to make any kind of changes into the file
-I am adding another line.
-I will try another time for practicing.
+This is a testing message
